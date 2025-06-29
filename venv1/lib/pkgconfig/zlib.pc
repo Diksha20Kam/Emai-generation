@@ -1,0 +1,13 @@
+prefix=/Users/admin/Documents/Code_email_generated_tool/venv1
+exec_prefix=/Users/admin/Documents/Code_email_generated_tool/venv1
+libdir=/Users/admin/Documents/Code_email_generated_tool/venv1/lib
+sharedlibdir=/Users/admin/Documents/Code_email_generated_tool/venv1/lib
+includedir=/Users/admin/Documents/Code_email_generated_tool/venv1/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
