@@ -1,0 +1,8 @@
+.env
+.DS_Store
+
+venv1/
+
+.ipynb_checkpoints/
+
+.vscode/
